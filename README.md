@@ -10,7 +10,7 @@ Shared logging primitives and in-app log collection for CofficLab apps.
 ## Swift Package Manager
 
 ```swift
-.package(url: "https://github.com/CofficLab/LumiLogging.git", from: "1.0.0")
+.package(url: "https://github.com/lumi-softworks/LumiLogging.git", from: "1.0.0")
 ```
 
 ```swift
