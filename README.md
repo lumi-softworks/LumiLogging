@@ -1,6 +1,8 @@
 # LumiLogging
 
-Shared logging primitives and in-app log collection for CofficLab apps.
+📖 English | [中文版](README_zh.md)
+
+Shared logging primitives and in-app log collection for Lumi family apps.
 
 ## Product
 
